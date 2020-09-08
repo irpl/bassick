@@ -87,7 +87,7 @@ a {
 }
 .navs {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
   color: white;
 }
