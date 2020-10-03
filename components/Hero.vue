@@ -17,12 +17,12 @@
 
 <script>
 // import VuePlyr from 'vue-plyr'
-import Plyr from "plyr";
+// import Plyr from "plyr";
 // import 'plyr/dist/plyr.css'
 export default {
   data() {
     return {
-      player: null
+      // player: null
     };
   }
 
