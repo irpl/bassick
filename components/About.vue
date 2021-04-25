@@ -80,7 +80,7 @@ export default {};
   /* align-items: center; */
   /* text-align: center; */
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
   /* .bassick-about-pic {
     display: block;
     width: 90%;
