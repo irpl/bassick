@@ -33,7 +33,7 @@ export default {};
   justify-content: space-evenly;
   /* align-content: center; */
   align-items: center;
-  position: relative;
+  /* position: relative; */
   background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
     url("~assets/studio.jpg");
   background-position: center;
@@ -80,7 +80,7 @@ export default {};
   /* align-items: center; */
   /* text-align: center; */
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
   /* .bassick-about-pic {
     display: block;
     width: 90%;
