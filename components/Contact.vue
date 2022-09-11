@@ -28,7 +28,7 @@
             <tr>
               <td><i class="fas fa-phone"></i></td>
               <td>:</td>
-              <td>+1(876) 927-7364</td>
+              <td>+1(876) 999-1234</td>
             </tr>
             <tr>
               <td><i class="fas fa-envelope"></i></td>
@@ -39,8 +39,8 @@
               <td><i class="fas fa-map-marker"></i></td>
               <td>:</td>
               <td>
-                8 Hopedale Ave. <br />
-                Kingston 10 <br />
+                10 Place St. <br />
+                Kingston 30 <br />
                 Jamaica, WI
               </td>
             </tr>
